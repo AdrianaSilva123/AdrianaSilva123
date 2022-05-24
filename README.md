@@ -1,7 +1,7 @@
 -# sobre mim
-- 👀
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ...
+- 👀 nome Adriana silva
+- 🌱estou enteresado em aprender a programar novas linguagens..
+- 💞️I’m currently learning .
 - 📫 How to reach me ...
 
 <!---
